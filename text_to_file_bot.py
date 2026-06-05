@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "8656699289:AAHYo-FpttcBu4oxuyPglBwYMbpk-p4oUSY"
+TOKEN = "8683503979:AAFgyrJbkBeiUKZ0beHbKSWgLvuRFPEU6lM"
 
 KEYBOARD = InlineKeyboardMarkup([[
     InlineKeyboardButton("📄 Текст", callback_data='mode_text'),
